@@ -19,6 +19,7 @@ The following datasets are available for download.
 | MACL Dataset | 3.25 MB | [Download MACL.zip](https://github.com/mbs-datathon/maldives-datathon-2026-datasets/releases/download/v1.0/MACL.zip) |
 | FollowMe Dataset | 440.04 MB | [Download FollowMe.zip](https://github.com/mbs-datathon/maldives-datathon-2026-datasets/releases/download/v1.0/FollowMe.zip) |
 | Avas Ride Dataset | 12.79 MB | [Download Avas_Ride.zip](https://github.com/mbs-datathon/maldives-datathon-2026-datasets/releases/download/v1.0/Avas_Ride.zip) |
+| MTCC Dataset | 53 KB | [Download MTCC.zip](https://github.com/mbs-datathon/maldives-datathon-2026-datasets/releases/download/v1.0/MTCC.zip) |
 
 **[View All Dataset Downloads (Release v1.0)](https://github.com/mbs-datathon/maldives-datathon-2026-datasets/releases/tag/v1.0)**
 
@@ -30,7 +31,7 @@ The following datasets are available for download.
 4. Open the extracted folder to access the data files.
 5. Review any accompanying documentation before starting your analysis.
 
-You can download any of the datasets individually or download all three datasets.
+You can download any of the four datasets individually or download all four datasets.
 
 ---
 
