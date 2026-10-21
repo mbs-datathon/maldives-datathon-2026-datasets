@@ -33,6 +33,20 @@ You can download either dataset individually or both datasets.
 
 ---
 
+## 📂 Team-Shared Datasets
+
+### 🔗 [Access Team-Shared Datasets](https://github.com/mbs-datathon/maldives-datathon-2026-datasets/tree/main/team-shared-datasets)
+
+Explore and download additional datasets shared by
+participating teams during Maldives Datathon 2026.
+
+**Currently available:**
+- **Team Kandu** — 14 CSV datasets (`Team_Kandu.zip`)
+
+More datasets will be added as they become available.
+
+---
+
 **Maldives Bureau of Statistics (MBS)**
 
 *Maldives Datathon 2026*
